@@ -27,10 +27,10 @@ connectDB();
 app.use(express.json());
 const corsOptions = {
     origin: [
-        "https://post-performace.vercel.app/",
-        "https://post-performace-git-main-apoorv-guptas-projects.vercel.app/",
-        "https://post-performace-37ojq0pur-apoorv-guptas-projects.vercel.app/",
-        "https://post-performace-apoorv-guptas-projects.vercel.app/"
+        "https://post-performace.vercel.app",
+        "https://post-performace-git-main-apoorv-guptas-projects.vercel.app",
+        "https://post-performace-37ojq0pur-apoorv-guptas-projects.vercel.app",
+        "https://post-performace-apoorv-guptas-projects.vercel.app"
     ],
     credentials: true
 };
@@ -43,6 +43,8 @@ app.use(cookieParser())
 
 app.use("/api/v1/users", userRouter);
 app.use("/api/v1/posts", postRouter)
+
+app.options("*", cors(corsOptions));
 app.use("*", (req, res) => {
     res.status(404).send({
         status: "Failure",
