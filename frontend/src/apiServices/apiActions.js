@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL="http://localhost:5000/api/v1"
+const BASE_URL="https://postperformace.onrender.com/api/v1"
 // User login
 export const loginUser = async (userData) => {
     try {
