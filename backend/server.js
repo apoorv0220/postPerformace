@@ -26,7 +26,7 @@ connectDB();
 
 app.use(express.json());
 const corsOptions = {
-    origin: ["http://localhost:5173"],
+    origin: ["https://post-performace.vercel.app/"],
     credentials: true
 };
 
