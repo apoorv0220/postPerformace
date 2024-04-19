@@ -1,0 +1,16 @@
+<svg width="176" height="44" xmlns="http://www.w3.org/2000/svg" class="feather feather-film" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="null" id="svg_1" ry="2.18" rx="2.18" height="40" width="40" y="2.09387" x="1.4055"/>
+  <line stroke="null" id="svg_2" y2="42" x2="12" y1="2" x1="12"/>
+  <line id="svg_3" y2="42" x2="32" y1="2.09387" x1="32"/>
+  <line id="svg_4" y2="22" x2="41" y1="22" x1="1.4055"/>
+  <line id="svg_5" y2="12" x2="12" y1="12" x1="1.4055"/>
+  <line stroke="null" id="svg_6" y2="32" x2="12" y1="32" x1="1.4055"/>
+  <line id="svg_7" y2="32" x2="40" y1="32" x1="32"/>
+  <line id="svg_8" y2="12" x2="40" y1="12" x1="32"/>
+  <text transform="matrix(4.18008 0 0 2.70459 82.0775 -32.4788)" stroke="null" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="6" stroke-width="0" fill="#000000" id="svg_11" y="25.55414" x="-8.55743">MANAGER</text>
+  <text transform="matrix(4.18008 0 0 2.8148 78.7442 -31.5851)" stroke="null" xml:space="preserve" text-anchor="start" font-family="'Alumni Sans'" font-size="6" stroke-width="0" fill="#000000" id="svg_13" y="16.99373" x="-7.68025">MOVIE</text>
+ </g>
+</svg>

@@ -1,0 +1,96 @@
+<svg width="657" height="466" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" width="118%" height="126.9%" x="-9%" y="-5.7%" filterUnits="objectBoundingBox">
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+  </filter>
+  <rect id="c" width="578" height="385" rx="26"/>
+  <filter id="b" width="126%" height="139%" x="-13%" y="-11.7%" filterUnits="objectBoundingBox">
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="20"/>
+  </filter>
+  <rect id="e" width="536" height="346" y="3" rx="8"/>
+  <linearGradient id="d" x1="99.013%" x2="2.544%" y1="71.675%" y2="29.014%">
+   <stop offset="0%" stop-color="#151515"/>
+   <stop offset="100%" stop-color="#3D3D3D"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g fill="#5267DF" fill-rule="evenodd" filter="url(#a)" id="svg_1">
+   <g id="svg_2">
+    <g fill-rule="nonzero" id="svg_3">
+     <use fill="#000" filter="url(#b)" xlink:href="#c" y="9.5" x="39.5" id="svg_4"/>
+     <use fill="#777" xlink:href="#c" y="9.5" x="39.5" id="svg_5"/>
+    </g>
+    <rect width="574.23" height="381.865" x="41.5" y="11.5" fill="url(#d)" fill-rule="nonzero" rx="25" id="svg_6"/>
+    <g id="svg_7">
+     <rect width="471.463" height="353.756" x="93.53" fill="#2A2A2A" fill-rule="nonzero" opacity="0.1" rx="5" y="25.803" id="svg_8"/>
+     <mask id="f" fill="#fff">
+      <use xlink:href="#e" id="svg_9"/>
+     </mask>
+     <use fill="#E8EAF6" fill-rule="nonzero" xlink:href="#e" y="25.803" x="60.53" id="svg_10"/>
+     <g mask="url(#f)" id="svg_11">
+      <path fill="#5267DF" d="m57,29l547,0l0,59l-547,0l0,-59z" id="svg_12"/>
+      <g fill="#FFF" id="svg_13">
+       <circle cx="99" cy="59" r="16" opacity="0.245" id="svg_14"/>
+       <circle cx="560" cy="59" r="16" opacity="0.104" id="svg_15"/>
+       <g id="svg_16">
+        <rect width="120" height="6" opacity="0.75" rx="3" y="49" x="130" id="svg_17"/>
+        <rect width="64" height="6" y="63" opacity="0.25" rx="3" x="130" id="svg_18"/>
+       </g>
+      </g>
+     </g>
+     <g mask="url(#f)" id="svg_19">
+      <g id="svg_20">
+       <rect width="261" height="316" fill="#FFF" rx="8" y="121.803" x="117.53" id="svg_21"/>
+       <rect width="128" height="316" x="412.53" fill="#FFF" rx="8" y="121.803" id="svg_22"/>
+       <rect width="120" height="6" x="196" y="160" fill="#242A45" opacity="0.5" rx="3" id="svg_23"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="svg_24">
+    <circle cx="165" cy="170" r="16" fill="#F98E5D" id="svg_25"/>
+    <rect width="88" height="6" x="433" fill="#242A45" opacity="0.25" rx="3" y="144" id="svg_26"/>
+    <rect width="88" height="6" x="433" y="164" fill="#242A45" opacity="0.25" rx="3" id="svg_27"/>
+    <rect width="88" height="6" x="433" y="184" fill="#242A45" opacity="0.25" rx="3" id="svg_28"/>
+    <rect width="88" height="6" x="433" y="204" fill="#242A45" opacity="0.25" rx="3" id="svg_29"/>
+    <rect width="88" height="6" x="433" y="238" fill="#242A45" opacity="0.25" rx="3" id="svg_30"/>
+    <rect width="88" height="6" x="433" y="258" fill="#242A45" opacity="0.25" rx="3" id="svg_31"/>
+    <rect width="88" height="6" x="433" y="278" fill="#242A45" opacity="0.25" rx="3" id="svg_32"/>
+    <rect width="64" height="6" x="196" y="174" fill="#242A45" opacity="0.25" rx="3" id="svg_33"/>
+   </g>
+   <g id="svg_34">
+    <circle cx="165" cy="226" r="16" fill="#6AC6D6" id="svg_35"/>
+    <rect width="120" height="6" x="196" y="216" fill="#242A45" opacity="0.5" rx="3" id="svg_36"/>
+    <rect width="64" height="6" x="196" y="230" fill="#242A45" opacity="0.25" rx="3" id="svg_37"/>
+   </g>
+   <g id="svg_38">
+    <circle cx="165" cy="282" r="16" fill="#A47ED4" id="svg_39"/>
+    <rect width="120" height="6" x="196" y="272" fill="#242A45" opacity="0.5" rx="3" id="svg_40"/>
+    <rect width="64" height="6" x="196" y="286" fill="#242A45" opacity="0.25" rx="3" id="svg_41"/>
+   </g>
+   <g id="svg_42">
+    <circle cx="165" cy="338" r="16" fill="#EC7878" id="svg_43"/>
+    <rect width="120" height="6" x="196" y="328" fill="#242A45" opacity="0.5" rx="3" id="svg_44"/>
+    <rect width="64" height="6" x="196" y="342" fill="#242A45" opacity="0.25" rx="3" id="svg_45"/>
+   </g>
+  </g>
+  <rect fill="#E8EAF6" x="101" y="111" width="456" height="257.5" id="svg_47"/>
+  <rect fill="#ffffff" x="88.5" y="111.5" width="129.5" height="262" id="svg_49" stroke="null"/>
+  <rect stroke="null" fill="#999999" x="101" y="130" width="102.5" height="5.0001" id="svg_50"/>
+  <rect stroke="null" fill="#999999" x="101" y="170" width="102.5" height="5.0001" id="svg_46"/>
+  <rect stroke="null" fill="#999999" x="101" y="150" width="102.5" height="5.0001" id="svg_48"/>
+  <rect stroke="null" fill="#999999" x="101" y="210" width="102.5" height="5.0001" id="svg_53"/>
+  <rect stroke="null" fill="#999999" x="101" y="250" width="102.5" height="5.0001" id="svg_54"/>
+  <rect stroke="null" fill="#999999" x="101" y="230" width="102.5" height="5.0001" id="svg_55"/>
+  <rect id="svg_56" height="45.49939" width="32.49956" y="112" x="250" fill="#5267DF"/>
+  <rect id="svg_58" height="45.49939" width="32.49956" y="112" x="325" fill="#5267DF"/>
+  <rect id="svg_60" height="45.49939" width="32.49956" y="112" x="400" fill="#5267DF"/>
+  <rect id="svg_61" height="45.49939" width="32.49956" y="112" x="475" fill="#5267DF"/>
+  <rect id="svg_63" height="45.49939" width="32.49956" y="172" x="475" fill="#5267DF"/>
+  <rect id="svg_64" height="45.49939" width="32.49956" y="172" x="400" fill="#5267DF"/>
+  <rect id="svg_65" height="45.49939" width="32.49956" y="172" x="325" fill="#5267DF"/>
+  <rect id="svg_66" height="45.49939" width="32.49956" y="172" x="250" fill="#5267DF"/>
+  <rect id="svg_67" height="45.49939" width="32.49956" y="232" x="250" fill="#5267DF"/>
+ </g>
+</svg>
