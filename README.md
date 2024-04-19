@@ -3,7 +3,7 @@ Here's the provided text converted to Markdown format:
 ---
 
 # Documentation for Facebook Post Performance Dashboard
-
+`Note - backend is deployed on free service so fetching takes some time.`
 https://post-performace.vercel.app/
 
 ## Introduction
