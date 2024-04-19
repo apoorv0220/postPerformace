@@ -26,7 +26,12 @@ connectDB();
 
 app.use(express.json());
 const corsOptions = {
-    origin: ["https://post-performace.vercel.app/"],
+    origin: [
+        "https://post-performace.vercel.app/",
+        "https://post-performace-git-main-apoorv-guptas-projects.vercel.app/",
+        "https://post-performace-37ojq0pur-apoorv-guptas-projects.vercel.app/",
+        "https://post-performace-apoorv-guptas-projects.vercel.app/"
+    ],
     credentials: true
 };
 
