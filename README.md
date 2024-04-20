@@ -1,5 +1,3 @@
-Here's the provided text converted to Markdown format:
-
 ---
 
 # Documentation for Facebook Post Performance Dashboard
